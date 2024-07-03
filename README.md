@@ -26,3 +26,9 @@ Este curso foi desenvolvido para capacitar o estudante a utilizar a linguagem de
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
+
+# Horário de Aula
+
+{% for schedule in site.schedules %}
+{{ schedule }}
+{% endfor %}
