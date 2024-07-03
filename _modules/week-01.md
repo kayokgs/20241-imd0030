@@ -7,7 +7,7 @@ Aula 01
   : [Slides](assets/aulas/aula_01.pdf)
 
 Aula 02
-: **CONTEÚDO**{: .label .label-purple }[Apresentação da Disciplina](#)
+: **CONTEÚDO**{: .label .label-purple }[Introdução à linguagem C++]()
   : [Slides](assets/aulas/aula_02.pdf) e [Código](assets/aulas/aula2-codigos.rar)
 
 Sep 29
