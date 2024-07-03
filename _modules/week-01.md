@@ -4,7 +4,7 @@ title: Introduction to Java
 
 Aula 01
 : [Apresentação da Disciplina]
-  : [Aula 01.pdf](../assets/aulas/aula_01.pdf)
+  : [Aula 01.pdf](assets/aulas/aula_01.pdf)
 
 Sep 29
 : **Section**{: .label .label-purple }[Intro to Java](#)
