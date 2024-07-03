@@ -12,16 +12,12 @@ seo:
 # Linguagem de Programação I
 ### Instituto Metrópole Digital - UFRN
 
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+{% assign instructors = site.staffers | where: 'role', 'Professor' %}
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
 
-{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
-{% assign num_teaching_assistants = teaching_assistants | size %}
-{% if num_teaching_assistants != 0 %}
-
-Just3 the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+Just4 the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
 - [announcements](announcements.md),
 - a [course calendar](calendar.md),
