@@ -8,7 +8,7 @@ timeline:
   - '22:10'
 schedule:
   - name: Segunda
-  - name: Terça
+  - name: Terca
       events:
       - name: Aula
         start: 20:30
