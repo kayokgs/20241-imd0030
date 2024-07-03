@@ -43,3 +43,6 @@ Os principais recursos bibliográficos para esta disciplina estão disponíveis 
 [cppreference.com](https://en.cppreference.com/w/)
 
 [roadmap.sh/cpp](https://roadmap.sh/cpp)
+
+
+<p class="text-small text-grey-dk-100 mb-0">Template by Kevin Lin &copy; 2023 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></p>
