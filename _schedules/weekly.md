@@ -23,3 +23,32 @@ schedule:
         location: A307
   - name: Sexta
 ---
+
+
+---
+timeline:
+  - '6:40 PM'
+  - '7:30 PM'
+  - '8:20 PM'
+  - '8:30 PM'
+  - '9:20 PM'
+  - '10:10 PM'
+schedule:
+  - name: Monday
+  - name: Tuesday
+    events:
+      - name: Aula
+        start: 8:30 PM
+        end: 10:30 PM
+        location: A307
+  - name: Wednesday
+  - name: Thursday
+    events:
+      - name: Aula
+        start: 8:30 PM
+        end: 10:30 PM
+        location: A307
+  - name: Friday
+    
+---
+
