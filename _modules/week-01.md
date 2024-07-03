@@ -34,6 +34,10 @@ Aula 09
 : **CONTEÚDO**{: .label .label-purple }Sobrecarga de Operadores
   : [Slides](assets/aulas/aula_09.pdf) e [Código](assets/aulas/aula9-codigos.zip)
 
+Extra
+: **TRABALHO**{: .label .label-purple } Trabalho 1
+  : [Descrição](assets/aulas/normas_trabalho1.pdf) e [Código](assets/aulas/codigo_fonte_trabalho1.zip)
+
 Aula 10
 : **CONTEÚDO**{: .label .label-purple }Gerenciamento de memória
   : [Slides](assets/aulas/aula_10.pdf)
