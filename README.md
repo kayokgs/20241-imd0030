@@ -21,14 +21,22 @@ Bem vindo ao curso Linguagem de Programação I (IMD0030) oferecido pelo Institu
 
 Este curso foi desenvolvido para capacitar o estudante a utilizar a linguagem de programação C++ para a implementação de programas visando a solução de problemas. Iremos abordar os seguintes temas:: Operadores de alocação dinâmica; Formas de implementação de TADs (Tipos Abstratos de Dados); Funções e Recursividade; Tipos de recursão; Recursão x Interação; Performance, Expressividade; Introdução a Classes; Construtores e Destrutores; Tipos compostos; Tipos recursivos; Gerenciamento de memória; Modularização de Programas; Depuração e Profiling; Aplicações em estruturas e algoritmos presentes em EDB1.
 
-### Materiais
+## Materiais
 
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
 
-# Horário de Aula
+## Horário de Aula
 
 {% for schedule in site.schedules %}
 {{ schedule }}
 {% endfor %}
+
+## Bibliografia
+Os principais recursos bibliográficos para esta disciplina estão disponíveis gratuitamente na Internet:
+
+[learncpp.com](https://www.learncpp.com/)
+[cplusplus.com](https://cplusplus.com/)
+[cppreference.com](https://en.cppreference.com/w/)
+[roadmap.sh/cpp](https://roadmap.sh/cpp)
