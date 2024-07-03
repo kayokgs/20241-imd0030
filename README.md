@@ -1,12 +1,12 @@
 ---
 layout: minimal
-title: Just the Class
+title: Lógica de Programação
 nav_enabled: false
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: Lógica de Programação I
 ---
 
 # Linguagem de Programação I
@@ -21,7 +21,7 @@ seo:
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
 
-Just2 the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+Just3 the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
 - [announcements](announcements.md),
 - a [course calendar](calendar.md),
