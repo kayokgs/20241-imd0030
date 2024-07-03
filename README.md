@@ -17,7 +17,7 @@ seo:
 {{ staffer }}
 {% endfor %}
 
-Esta é a disciplina de 2024.1 - LP1
+Esta é a disciplina de 2024.1 - LP11
 
 ### Materiais
 
