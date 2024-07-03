@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Just the Class
-nav_exclude: true
+nav_exclude: false
 permalink: /:path/
 seo:
   type: Course
