@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Just the Class
+nav_enabled: true
 nav_exclude: true
 permalink: /:path/
 seo:
