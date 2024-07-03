@@ -9,9 +9,11 @@ seo:
   name: Just the Class
 ---
 
-# Just the Class
+# Linguagem de Programação I
+### Instituto Metrópole Digital
+### Universidade Federal do Rio Grande do Norte
 
-Just4 the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+Just1 the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
 - [announcements](announcements.md),
 - a [course calendar](calendar.md),
