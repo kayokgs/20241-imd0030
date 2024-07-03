@@ -24,15 +24,15 @@ Aula 06
 
 Aula 07
 : **CONTEÚDO**{: .label .label-purple }Construtores, destrutores e membros estáticos
-  : [Slides](assets/aulas/aula_07.pdf) e [Código](assets/aulas/aula7-codigos.rar)
+  : [Slides](assets/aulas/aula_07.pdf) e [Código](assets/aulas/aula7-codigos.zip)
 
 Aula 08
 : **CONTEÚDO**{: .label .label-purple }Sobrecarga de Operadores
-  : [Slides](assets/aulas/aula_08.pdf) e [Código](assets/aulas/aula8-codigos.rar)
+  : [Slides](assets/aulas/aula_08.pdf) e [Código](assets/aulas/aula8-codigos.zip)
 
 Aula 09
 : **CONTEÚDO**{: .label .label-purple }Sobrecarga de funções e passagem de parâmetro
-  : [Slides](assets/aulas/aula_09.pdf) e [Código](assets/aulas/aula9-codigos.rar)
+  : [Slides](assets/aulas/aula_09.pdf) e [Código](assets/aulas/aula9-codigos.zip)
 
 Aula 10
 : **CONTEÚDO**{: .label .label-purple }Gerenciamento de memória
@@ -40,7 +40,7 @@ Aula 10
 
 Aula 11
 : **CONTEÚDO**{: .label .label-purple }Programação genérica: templates de funções e templates de classes
-  : [Slides](assets/aulas/aula_11.pdf) e [Código](assets/aulas/aula11-codigos.rar)
+  : [Slides](assets/aulas/aula_11.pdf) e [Código](assets/aulas/aula11-codigos.zip)
 
 Aula 12
 : **DÚVIDAS**{: .label .label-purple }Aula de Dúvidas
