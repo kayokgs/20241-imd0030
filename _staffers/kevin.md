@@ -1,11 +1,9 @@
 ---
-name: Kevin Lin
-role: Instructor
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+name: Kayo Gonçalves
+role: Professor
+email: kayo@imd.ufrn.br
+website: (https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1721835
+photo: kayo.jpg
 meta:
-  Office Hours: Somewhere on the internet
+  Office Hours: Envie-me email
 ---
-
-[Schedule an appointment](#){: .btn .btn-outline }
