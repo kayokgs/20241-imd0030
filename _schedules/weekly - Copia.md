@@ -21,10 +21,10 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Lecture
+      - name: Aula
         start: 9:30 AM
         end: 10:30 AM
-        location: 150 Wheeler
+        location: A307
       - name: Section
         start: 11:30 AM
         end: 12:30 PM
