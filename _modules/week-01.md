@@ -39,7 +39,7 @@ Aula 11
   : [Slides](assets/aulas/aula_11.pdf) e [Código](assets/aulas/aula11-codigos.zip)
 
 Aula 12
-: **DÚVIDAS**{: .label .label-purple }Aula de Dúvidas
+: **DÚVIDAS**{: .label .label-yellow }Aula de Dúvidas
   : 
 
 Aula 13
