@@ -39,16 +39,16 @@ Aula 10
   : [Slides](assets/aulas/aula_10.pdf)
 
 Aula 11
-: **CONTEÚDO**{: .label .label-purple }Programação genérica: templates de funções e templates de classes
-  : [Slides](assets/aulas/aula_11.pdf) e [Código](assets/aulas/aula11-codigos.zip)
-
-Aula 12
 : **DÚVIDAS**{: .label .label-yellow }Aula de Dúvidas
   : 
 
-Aula 13
+Aula 12
 : **PROVA**{: .label .label-red }1ª Avaliação Escrita
   : 
+
+Aula 13
+: **CONTEÚDO**{: .label .label-purple }Programação genérica: templates de funções e templates de classes
+  : [Slides](assets/aulas/aula_13.pdf) e [Código](assets/aulas/aula13-codigos.zip)
 
 Aula 14
 : **CONTEÚDO**{: .label .label-purple }Ponteiros inteligentes, exercício algoritmo ordenação
