@@ -1,23 +1,11 @@
 ---
-title: Basic Data Structures
+Segunda Unidade
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+Aula 13
+: **CONTEÚDO**{: .label .label-purple }Programação genérica: templates de funções e templates de classes
+  : [Slides](assets/aulas/aula_13.pdf) e [Código](assets/aulas/aula13-codigos.zip)
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
-
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
-
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
-
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+Aula 14
+: **CONTEÚDO**{: .label .label-purple }Ponteiros inteligentes, exercício algoritmo ordenação
+  : [Slides](assets/aulas/aula_11.pdf) e [Exercício](assets/aulas/exercicio_aula14.pdf) 
