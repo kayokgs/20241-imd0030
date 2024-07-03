@@ -2,10 +2,6 @@
 Primeira Unidade: 1
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
-
 Aula 01
 : **CONTEÚDO**{: .label .label-purple }Apresentação da Disciplina
   : [Slides](assets/aulas/aula_01.pdf)
