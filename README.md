@@ -47,9 +47,9 @@ Just the Class requires no special Jekyll plugins and can run on GitHub Pages' s
 
 ### Materiais
 
----
-title: Introduction to Java
----
+|Apresentação|||
+|--|--|--|
+|**Aula 01** |{: .label .label-purple }[Conteúdo] Apresentação da disciplina | [Aula 01.pdf](assets/aulas/aula_01.pdf) |
 
 Aula 01 : [Java & Git](#) : [1.1](#)
 **Aula 01**{: .label .label-purple }[Aula 01.pdf](assets/aulas/aula_01.pdf)
