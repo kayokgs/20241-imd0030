@@ -17,7 +17,7 @@ seo:
 {{ staffer }}
 {% endfor %}
 
-Just4 the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+Just1 the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
 - [announcements](announcements.md),
 - a [course calendar](calendar.md),
@@ -44,3 +44,27 @@ Just the Class has been used by instructors at Stanford University ([CS 161](htt
 ### Local development environment
 
 Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+
+### Materiais
+
+---
+title: Introduction to Java
+---
+
+Aula 01 : [Java & Git](#) : [1.1](#)
+
+Sep 29
+: **Section**{: .label .label-purple }[Intro to Java](#)
+  : [Solution](#)
+
+Sep 30
+: [Variables & Objects](#)
+  : [1.2](#), [2.1](#)
+
+Oct 1
+: **Lab**{: .label .label-purple } [Intro to Java](#)
+
+Oct 2
+: [Tracing, IntLists, & Recursion](#)
+  : [2.1](#)
+: **HW 1 due**{: .label .label-red }
