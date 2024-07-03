@@ -47,6 +47,3 @@ Just the Class requires no special Jekyll plugins and can run on GitHub Pages' s
 
 ### Materiais
 
-|Apresentação|||
-|--|--|--|
-|**Aula 01**|**CONTEÚDO**{: .label .label-purple }Apresentação da disciplina | [Aula 01.pdf](assets/aulas/aula_01.pdf) |
