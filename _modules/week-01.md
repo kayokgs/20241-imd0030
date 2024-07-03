@@ -35,7 +35,7 @@ Aula 09
   : [Slides](assets/aulas/aula_09.pdf) e [Código](assets/aulas/aula9-codigos.zip)
 
 Extra
-: **TRABALHO**{: .label .label-purple } Trabalho 1
+: **TRABALHO**{: .label .label-orange } Trabalho 1
   : [Descrição](assets/aulas/normas_trabalho1.pdf) e [Código](assets/aulas/codigo_fonte_trabalho1.zip)
 
 Aula 10
