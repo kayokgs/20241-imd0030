@@ -11,7 +11,6 @@ seo:
 
 # Linguagem de Programação I
 ### Universidade Federal do Rio Grande do Norte
-### Instituto Metrópole Digital - UFRN
 
 {% assign instructors = site.staffers | where: 'role', 'Professor' %}
 {% for staffer in instructors %}
