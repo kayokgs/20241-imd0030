@@ -52,6 +52,7 @@ title: Introduction to Java
 ---
 
 Aula 01 : [Java & Git](#) : [1.1](#)
+**Aula 01**{: .label .label-purple }[Aula 01.pdf]()
 
 Sep 29
 : **Section**{: .label .label-purple }[Intro to Java](#)
