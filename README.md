@@ -17,7 +17,7 @@ seo:
 {{ staffer }}
 {% endfor %}
 
-Just1 the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+Just2 the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
 - [announcements](announcements.md),
 - a [course calendar](calendar.md),
@@ -47,3 +47,6 @@ Just the Class requires no special Jekyll plugins and can run on GitHub Pages' s
 
 ### Materiais
 
+{% for module in site.modules %}
+{{ module }}
+{% endfor %}
