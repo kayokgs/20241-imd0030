@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Just the Class
 nav_exclude: true
 permalink: /:path/
