@@ -1,7 +1,3 @@
----
-title: Introduction to Java
----
-
 Aula 01
 : **CONTEÚDO**{: .label .label-purple }Apresentação da Disciplina
   : [Slides](assets/aulas/aula_01.pdf)
@@ -47,7 +43,7 @@ Aula 12
   : 
 
 Aula 13
-: **PROVA**{: .label .label-purple }1ª Avaliação Escrita
+: **PROVA**{: .label .label-red }1ª Avaliação Escrita
   : 
 
 Aula 14
