@@ -27,11 +27,11 @@ Aula 07
   : [Slides](assets/aulas/aula_07.pdf) e [Código](assets/aulas/aula7-codigos.zip)
 
 Aula 08
-: **CONTEÚDO**{: .label .label-purple }Sobrecarga de Operadores
+: **CONTEÚDO**{: .label .label-purple }Sobrecarga de funções e passagem de parâmetro
   : [Slides](assets/aulas/aula_08.pdf) e [Código](assets/aulas/aula8-codigos.zip)
 
 Aula 09
-: **CONTEÚDO**{: .label .label-purple }Sobrecarga de funções e passagem de parâmetro
+: **CONTEÚDO**{: .label .label-purple }Sobrecarga de Operadores
   : [Slides](assets/aulas/aula_09.pdf) e [Código](assets/aulas/aula9-codigos.zip)
 
 Aula 10
