@@ -37,6 +37,9 @@ Este curso foi desenvolvido para capacitar o estudante a utilizar a linguagem de
 Os principais recursos bibliográficos para esta disciplina estão disponíveis gratuitamente na Internet:
 
 [learncpp.com](https://www.learncpp.com/)
+
 [cplusplus.com](https://cplusplus.com/)
+
 [cppreference.com](https://en.cppreference.com/w/)
+
 [roadmap.sh/cpp](https://roadmap.sh/cpp)
