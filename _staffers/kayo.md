@@ -4,7 +4,6 @@ role: Professor
 email: kayo@imd.ufrn.br
 website: https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1721835
 photo: kayo.png
-meta: Sala: UFRN/IMD/A214
-
- Agendar horário por email
+meta:
+  Sala: UFRN/IMD/A214
 ---
