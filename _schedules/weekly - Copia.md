@@ -8,18 +8,18 @@ timeline:
   - '10:10 PM'
 schedule:
   - name: Segunda
-  - name: Tuesday
+  - name: Terça
     events:
-      - name: Aula
-        start: 9:30 AM
-        end: 10:30 AM
+      - name: Aula LP1
+        start: 8:30 PM
+        end: 10:10 PM
         location: A307
-  - name: Wednesday
-  - name: Thursday
+  - name: Quarta
+  - name: Quinta
     events:
-      - name: Aula
-        start: 9:30 AM
-        end: 10:30 AM
+      - name: Aula LP1
+        start: 8:30 PM
+        end: 10:10 PM
         location: A307
-  - name: Friday
+  - name: Sexta
 ---
